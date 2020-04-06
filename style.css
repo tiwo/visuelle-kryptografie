@@ -27,7 +27,7 @@ canvas {
   background-color: #999;
   margin: 20px;
   transition: all 2s;
-  opacity: 0;
+  opacity: 1;
 }
 canvas.in {
   opacity: 1;
